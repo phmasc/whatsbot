@@ -93,5 +93,7 @@ Por exemplo: "5511987654321@s.whatsapp.net;5511321654987@s.whatsapp.net"
 ---
 
 ### Dúvidas ou melhorias?
+
 Fique à vontade para abrir issues ou contribuir com o projeto.
+
 GitHub Base: [PyCodeBR/WhatsApp](https://github.com/pycodebr/whatsapp_ai_bot.git)
