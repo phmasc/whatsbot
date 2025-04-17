@@ -85,7 +85,9 @@ http://bot:8000/webhook
 - Habilite o evento `MESSAGES_UPSERT`
 
 7. **Liste os chats autorizados no `.env`:**
+
 Preencha o `AUTORIZED_CHATS` separando os chat_id autorizados com `;`, o formato tem que ser numero de telefone com o DDI (5511RESTANTE DO NUMERO) seguido por **@s.whatsapp.net**.
+
 Por exemplo: "5511987654321@s.whatsapp.net;5511321654987@s.whatsapp.net"
 
 ---
